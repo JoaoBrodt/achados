@@ -14,7 +14,7 @@ Tabela de conteúdos
    * [Sobre](#Sobre)
    * [Instalação](#instalação)
    * [Como usar](#Como-Usar)
-      * [Pre Requisitos](#Pré-requisitos)
+      * [Pre-Requisitos](#Pré-requisitos)
    * [Tecnologias](#Tecnologias)
 <!--te-->
 
